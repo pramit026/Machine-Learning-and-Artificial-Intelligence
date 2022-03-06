@@ -4,7 +4,7 @@ Machine Learning and Artificial Intelligence
 # Syllabus:
    - ## [Fundamentals of Programming](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/tree/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming)
       - ### [Python for Data Science Introduction](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/tree/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming/01.Python-for-Data-Science-Introduction)
-           - Installation instructions
+           - [Installation instructions](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/blob/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming/01.Python-for-Data-Science-Introduction/01.Installation-instructions.txt)
            - Why learn Python
            - [Keywords and Identifiers](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/blob/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming/01.Python-for-Data-Science-Introduction/03.Keywords-and-Identifiers.ipynb)
            - [Comments , indentation , statements](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/blob/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming/01.Python-for-Data-Science-Introduction/04.Comments-Indetation-Statements.ipynb)
