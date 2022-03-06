@@ -1,0 +1,42 @@
+installation:
+
+1. installing anaconda 
+	Windown 64 bit: https://repo.continuum.io/archive/Anaconda3-5.2.0-Windows-x86_64.exe 
+	Windown 32 bit: https://repo.continuum.io/archive/Anaconda3-5.2.0-Windows-x86.exe 
+	Mac : https://repo.continuum.io/archive/Anaconda3-5.2.0-MacOSX-x86_64.sh 
+	Linux 64 bit: https://repo.continuum.io/archive/Anaconda3-5.2.0-Linux-x86_64.sh 
+	Linux 32 bit: https://repo.continuum.io/archive/Anaconda3-5.2.0-Linux-x86.sh 
+	Check the previous Archives of Anaconda: https://repo.continuum.io/archive/
+
+
+# we will be installing all these packages and verifying
+
+step to instal this packages:
+1. open anaconda command prompt
+2. then type pip install (package_name) .. e.g - pip install numpy
+
+
+
+Package to be install
+1. plotly --- done
+2. gensim -- done
+3. graphviz -- this is used to plot decision tree, dask dataframe tree, DL models etc
+#  i have stopped kernle lets start jupyter notebook  --- done
+
+4. distance: note that this package is not part of the conda so we will be installing it with pip -- done
+5. fuzzy wazzy -- done
+6. imblearn -- done
+7. networkx -- done
+8. spacy - done
+9. foulim -- done
+10. tensorflow (only cpu) -- very usefull for DL -- done
+11. keras -- done
+12. prettytable - done
+13. tqdm - done
+14. xgboost
+16. gpxpy
+18. nltk.stopwords
+19. skmultilearn
+20. surprise
+21. stellargraph
+22. tensorboard
