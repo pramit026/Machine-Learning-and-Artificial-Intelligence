@@ -1,6 +1,7 @@
 # Machine-Learning-and-Artificial-Intelligence
 Machine Learning and Artificial Intelligence
 
+
 # Syllabus:
    - ## [Fundamentals of Programming](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/tree/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming)
       - ### [Python for Data Science Introduction](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/tree/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming/01.Python-for-Data-Science-Introduction)
