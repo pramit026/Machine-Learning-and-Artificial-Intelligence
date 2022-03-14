@@ -36,4 +36,4 @@ Machine Learning and Artificial Intelligence
          - [Debugging Python](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/blob/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming/03.Python-for-Data-Science_%20Functions/10.Debugging-in-Python.ipynb)
       - ### [Python for Data Science - NumPy](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/tree/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming/04.Python-for-Data-Science_%20Numpy)
          - [Numpy Introduction](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/blob/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming/04.Python-for-Data-Science_%20Numpy/01.Numpy-Introduction.ipynb)
-         - [Numerical Operations on Numpy]
+         - [Numerical Operations on Numpy](https://github.com/pramit026/Machine-Learning-and-Artificial-Intelligence/blob/main/Machine%20Learning%20and%20Artificial%20Intelligence/01.%20Fundamentals-of-Programming/04.Python-for-Data-Science_%20Numpy/02.Numerical-operations-on-numpy.ipynb)
